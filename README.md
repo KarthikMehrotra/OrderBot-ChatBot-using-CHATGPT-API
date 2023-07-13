@@ -7,7 +7,7 @@ Three way system
 
 
 SYSTEM  (ChatGPT)
-|
+>
 ASSISTANT (OrderBot)
-|
+>
 USER   (The person ordering)
